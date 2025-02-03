@@ -1,5 +1,5 @@
 ---
-title: this is my first homepage
+title: this is tutorial done in kojimagumi
 
 ---
 
